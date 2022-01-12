@@ -58,7 +58,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 ### Local Deploy - Traditional Method
 - Get your [Necessary Variables](#Necessary-Variables)
 - Clone the repository:    
-`git clone https://github.com/TeamUltroid/Ultroid.git`
+`git clone https://github.com/swarnadeeppp/Ultroid.git`
 - Go to the cloned folder:    
 `cd Ultroid`
 - Create a virtual env:      
